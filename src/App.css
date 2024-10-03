@@ -1,0 +1,21 @@
+
+
+
+
+footer{
+  width: 100vw;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  background-color: black;
+  color: white;
+  height: 50px;
+}
+
+img-nav{
+  height: 150px;
+}
+
+.navbar{
+  display: flex;
+}
