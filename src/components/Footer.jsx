@@ -1,10 +1,7 @@
 const Footer =()=>(
     <>
        <footer>
-        <p>
-          <span>&copy;Direitos Reservados</span>
-          <span></span>
-        </p>   
+        <p>&copy;Direitos Reservados</p>   
         </footer> 
     </>
 )
